@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj": {}
+    "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj": {
+    "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj",
         "projectName": "Galgje_CSharp",
-        "projectPath": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj",
+        "projectPath": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\Galgje_CSharp.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\Documents\\GitHub\\Galgje\\Galgje\\Galgje_CSharp\\Galgje_CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
