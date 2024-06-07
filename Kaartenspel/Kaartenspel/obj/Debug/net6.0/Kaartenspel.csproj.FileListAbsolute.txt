@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\bin\Debug\net6.0\Kaartenspel.exe
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\bin\Debug\net6.0\Kaartenspel.deps.json
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\bin\Debug\net6.0\Kaartenspel.runtimeconfig.json
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\bin\Debug\net6.0\Kaartenspel.dll
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\bin\Debug\net6.0\Kaartenspel.pdb
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.AssemblyInfo.cs
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.dll
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\refint\Kaartenspel.dll
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.pdb
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\Kaartenspel.genruntimeconfig.cache
+C:\Users\Diego\Documents\GitHub\Galgje\Galgje\Kaartenspel\Kaartenspel\obj\Debug\net6.0\ref\Kaartenspel.dll
